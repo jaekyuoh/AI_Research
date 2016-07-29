@@ -1,0 +1,14 @@
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/bin/Debug/BTConsole.exe.mdb
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/bin/Debug/BTConsole.exe
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/obj/x86/Debug/BTConsole.exe
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/obj/x86/Debug/BTConsole.exe.mdb
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/bin/Debug/BehaviorLibrary.dll
+/Users/jaekyuoh/Desktop/GT/Research/BTConsole/BTConsole/bin/Debug/BehaviorLibrary.dll.mdb
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/bin/Debug/BTConsole.exe.mdb
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/bin/Debug/BTConsole.exe
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/obj/x86/Debug/BTConsole.exe
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/obj/x86/Debug/BTConsole.exe.mdb
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/bin/Debug/BehaviorLibrary.dll
+/Users/jaekyuoh/Documents/AI-Research/BTConsole/BTConsole/bin/Debug/BehaviorLibrary.dll.mdb

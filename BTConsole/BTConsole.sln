@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTConsole", "BTConsole\BTConsole.csproj", "{99FBE7E3-E7BC-4829-AB02-772F4253B50C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{796AB108-74CE-4273-9871-F266C52EF523}"
+	ProjectSection(SolutionItems) = preProject
+		BTConsole\prescription.txt = BTConsole\prescription.txt
+		BTConsole\Introduction.txt = BTConsole\Introduction.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviorLibrary", "..\BehaviorLibrary-master\BehaviorLibrary\BehaviorLibrary.csproj", "{CC824B6F-6145-485F-9604-FB94F0ECACA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99FBE7E3-E7BC-4829-AB02-772F4253B50C}.Debug|x86.ActiveCfg = Debug|x86
+		{99FBE7E3-E7BC-4829-AB02-772F4253B50C}.Debug|x86.Build.0 = Debug|x86
+		{99FBE7E3-E7BC-4829-AB02-772F4253B50C}.Release|x86.ActiveCfg = Release|x86
+		{99FBE7E3-E7BC-4829-AB02-772F4253B50C}.Release|x86.Build.0 = Release|x86
+		{CC824B6F-6145-485F-9604-FB94F0ECACA7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CC824B6F-6145-485F-9604-FB94F0ECACA7}.Debug|x86.Build.0 = Debug|Any CPU
+		{CC824B6F-6145-485F-9604-FB94F0ECACA7}.Release|x86.ActiveCfg = Release|Any CPU
+		{CC824B6F-6145-485F-9604-FB94F0ECACA7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = BTConsole\BTConsole.csproj
+	EndGlobalSection
+EndGlobal
